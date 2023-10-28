@@ -1,0 +1,58 @@
+body {
+	background: #f7f7f7;
+	color: #0f0f0f;
+	font-family: Almarai;
+}
+.logo{
+	font-family: signika;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.moviecard img{
+	width: 100%;
+}
+.searchtop{
+	
+}
+.searchcard{
+	border-bottom: 1.5px solid gray;
+}
+.header{
+	display: flex;
+	
+	justify-content: space-between;
+}
+.logoinput{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+
+
+/* .image-container {
+	position: relative;
+	transition: transform 0.2s;
+}
+
+.image-container:hover {
+	cursor: pointer;
+	transform: scale(1.1);
+}
+
+.image-container:hover .overlay {
+	opacity: 1;
+} */
+
+/* .overlay {
+	position: absolute;
+	background: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	transition: 0.5s ease;
+	opacity: 0;
+	bottom: 0;
+	font-size: 20px;
+	padding: 20px;
+	text-align: center;
+}  */
